@@ -25,7 +25,7 @@ On another shell, if conda is installed (sudo is needed):
 ```bash
 conda activate qwic
 sudo env "PATH=$PATH" python3 src/main.py -i br-fc2518b3193b -m SC -f monitor -d auto -x L30 -c 1M >/dev/null
-```
+```S
 
 If conda is not installed, you can straight up run the main.py script:
 
