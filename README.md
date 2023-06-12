@@ -11,7 +11,7 @@ You need the edited version of Quiche from the [repository](https://github.com/m
 Client-side (you must insert your server endpoint; `--silent` flag is optional and silences the application).
 
 ```bash
-./client-request.sh https://192.168.50.1:4433/index-2m.html --silent
+./client-request.sh https://192.168.96.131:4433/index.html --silent
 ```
 
 Server-side:
