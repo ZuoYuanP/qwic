@@ -7,6 +7,9 @@ More information - such as installation instructions - will be inserted here as 
 ## Usage
 
 You need the edited version of Quiche from the [repository](https://github.com/mfranzil/quiche) to test out this application.
+```bash
+git clone --recursive https://github.com/ZuoYuanP/quiche.git
+```
 
 Client-side (you must insert your server endpoint; `--silent` flag is optional and silences the application).
 
